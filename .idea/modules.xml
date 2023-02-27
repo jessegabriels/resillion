@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/API-testing-workshop.iml" filepath="$PROJECT_DIR$/.idea/API-testing-workshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kata-java-start/API_Test_Automation_Framework.iml" filepath="$PROJECT_DIR$/kata-java-start/API_Test_Automation_Framework.iml" />
+    </modules>
+  </component>
+</project>
